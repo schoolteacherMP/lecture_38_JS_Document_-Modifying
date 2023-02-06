@@ -16,6 +16,8 @@ elem.textContent = text  **
 В примере ниже вызов table.remove() удаляет таблицу из документа.  
 Но если вы запустите его, вы увидите, что текст "aaa" все еще виден.  
 Почему так происходит?  
+![image](https://user-images.githubusercontent.com/113675674/216991201-c427bc21-a457-4b29-b782-6e8a5b0f6ef1.png)  
+
 `<table id="table">`  
   `aaa`  
   `<tr>`  
