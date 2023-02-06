@@ -27,5 +27,8 @@ HTML в задаче некорректен. В этом всё дело.
 
 ## Задача 4.   
 ### Создайте список  
+![image](https://user-images.githubusercontent.com/113675674/216997357-f67fe81b-6663-48e4-9c9d-ad30f6564fdd.png)  
+[Открыть решение в песочнице.](https://plnkr.co/edit/I3Slu1EGgSEuUZwp?p=preview&preview)  
+  
 
   
