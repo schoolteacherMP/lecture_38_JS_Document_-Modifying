@@ -9,7 +9,16 @@ elem.textContent = text**
 ## Задача 2.   
 ### Очистите элемент  
 Создайте функцию clear(elem), которая удаляет всё содержимое из elem.  
-![image](https://user-images.githubusercontent.com/113675674/216989307-d869f5e4-7f00-4f8e-aa7c-cfc32214e37f.png)  
+`<ol id="elem">`  
+  `<li>Привет</li>`  
+  `<li>Мир</li>`  
+`</ol>`  
+
+`<script>`  
+  `function clear(elem) { /* ваш код */ }`  
+
+  `clear(elem); // очищает список`  
+`</script>`  
 
 ## Задача 3.   
 ### Почему остаётся "aaa"?  
