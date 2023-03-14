@@ -54,7 +54,7 @@ elem.textContent = text**
 ## Задача 5.   
 ### добавляем элементы  
 `<div class="start"></div>`  
-1. создать новый div, добавить ему класс 'end', и вставить его после div class="start".  
+1. создать новый div, добавить ему класс 'end', и вставить его после div class="start".  (добавление класса `.classList.add('end')`)
 2. создать ul и добавить его перед div class="start".  
 3. добавить в этот ul первый li с текстом 'feirs item' и второй li с текстом 'second item'.  
 4. создать новый div с классом middle и вставить между div start и end.  
