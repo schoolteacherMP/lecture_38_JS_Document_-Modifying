@@ -28,8 +28,12 @@ HTML в задаче некорректен. В этом всё дело.
 ### Вставьте HTML в список  
 ![image](https://user-images.githubusercontent.com/113675674/217161997-d072277e-7c47-44e8-8a1e-55ac446c72f5.png)  
 
-  
 ## Задача 5.   
+### добавляем элементы  
+![image](https://user-images.githubusercontent.com/113675674/224999149-cd81774c-c9d1-4c72-8498-f9d3a9b34203.png)  
+
+  
+## Задача 6.   
 ### Создайте список 
 ![image](https://user-images.githubusercontent.com/113675674/216997357-f67fe81b-6663-48e4-9c9d-ad30f6564fdd.png)  
 [Открыть решение в песочнице.](https://plnkr.co/edit/I3Slu1EGgSEuUZwp?p=preview&preview)  
