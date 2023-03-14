@@ -4,7 +4,7 @@
 Какие из этих 3-х команд работают одинаково?  
 **elem.append(document.createTextNode(text))  
 elem.innerHTML = text  
-elem.textContent = text  **
+elem.textContent = text**  
 
 ## Задача 2.   
 ### Очистите элемент  
