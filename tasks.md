@@ -44,7 +44,10 @@ elem.textContent = text**
 ## Задача 4.   
 ### Вставьте HTML в список  
 Напишите код для вставки `<li>2</li><li>3</li>` между этими двумя `<li>`:  
-![image](https://user-images.githubusercontent.com/113675674/217161902-362f200f-15a4-4b61-b2b1-a83a4b179397.png)  
+`<ul id="ul">`  
+  `<li id="one">1</li>`  
+  `<li id="two">4</li>`  
+`</ul>`   
 Когда нам необходимо вставить фрагмент HTML-кода, можно использовать insertAdjacentHTML, он лучше всего подходит для таких задач.  
 
 ## Задача 5.   
